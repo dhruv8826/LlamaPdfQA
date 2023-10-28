@@ -1,0 +1,15 @@
+fairscale~=0.4.13
+torch~=2.1.0
+sentencepiece~=0.1.99
+llama~=0.0.1
+setuptools~=68.1.2
+fire~=0.5.0
+lightning~=2.1.0
+jsonargparse~=4.26.1
+transformers~=4.34.1
+requests~=2.31.0
+numpy~=1.26.0
+tqdm~=4.66.1
+streamlit~=1.27.1
+pypdf2~=3.0.1
+langchain~=0.0.305
